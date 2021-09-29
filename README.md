@@ -1,11 +1,9 @@
-[![Header](banner.png "Header")](https://some-url.dev/)
-
-
 - 👋 Hi, I’m @n07f0und
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 📫 How to reach me [Twitter](https://twitter.com/Muinde_Kevoh)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n07f0und)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 
