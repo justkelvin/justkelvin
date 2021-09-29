@@ -1,3 +1,4 @@
+[![GitHub Banner](banner.png)](https://)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Am Error 404 and I like breaking into stuff. You can find me on [![Twitter][1.2]][1]
