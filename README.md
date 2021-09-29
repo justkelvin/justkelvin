@@ -4,7 +4,7 @@
 - 📫 How to reach me [Twitter](https://twitter.com/Muinde_Kevoh)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n07f0und&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n07f0und)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n07f0und&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 
