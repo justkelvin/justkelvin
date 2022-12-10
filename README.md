@@ -15,13 +15,13 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-<!-- ## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 <a href="https://github.com/justkelvin/justkelvin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=html,tex&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=html,tex&theme=transparent&langs_count=5" />
 </a>
 <a href="https://github.com/justkelvin/justkelvin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justkelvin&show_icons=true&line_height=26&count_private=true&theme=radical" alt="GitHub Stats" />
-</a> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justkelvin&show_icons=true&line_height=40&count_private=true&theme=transparent" alt="GitHub Stats" />
+</a>
 
 <!-- links to your social media accounts -->
 
