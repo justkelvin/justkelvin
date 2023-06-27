@@ -17,7 +17,7 @@
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 <a href="https://github.com/justkelvin/justkelvin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=html,tex&theme=transparent&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,tex&theme=transparent&langs_count=5" />
 </a>
 <a href="https://github.com/justkelvin/justkelvin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justkelvin&show_icons=true&line_height=40&count_private=true&theme=transparent" alt="GitHub Stats" />
