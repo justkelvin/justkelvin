@@ -20,9 +20,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,tex&theme=transparent&langs_count=5" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,text&langs_count5&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkelvin)](https://github.com/anuraghazra/github-readme-stats)
+[![Justkelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkelvin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to your social media accounts -->
 
