@@ -17,9 +17,9 @@
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
-[![Justkelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkelvin&hide=contribs&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Justkelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justkelvin&hide=contribs&show=prs_merged&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,text&langs_count5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,text&langs_count5&layout=compact&show_icons=true)
 
 
 <!-- links to your social media accounts -->
