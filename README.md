@@ -16,9 +16,6 @@
 
 
 <!-- ## &#x1f4c8; GitHub Stats -->
-<a href="https://github.com/justkelvin/justkelvin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,tex&theme=transparent&langs_count=5" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,text&langs_count5&layout=compact)
 
