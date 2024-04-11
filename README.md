@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=scss,css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=scss,css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent&card_width=360" />
 </a>
 
 <!-- links to your social media accounts -->
