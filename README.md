@@ -16,13 +16,13 @@
 
 
 <!-- ## &#x1f4c8; GitHub Stats -->
-<center>
 
-[![Justkelvin's GitHub stats](https://github-readme-stats-puce-omega-76.vercel.app/api?username=justkelvin&hide=contribs&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent)
-
-</center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api?username=justkelvin&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=scss,css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent" />
+</a>
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/alias_notfound
