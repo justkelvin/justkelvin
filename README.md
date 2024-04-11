@@ -33,11 +33,6 @@
   <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=scss,css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent&card_width=320" />
 </a>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=qrcode&theme=transparent" />
-</a>
-
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/alias_notfound
