@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=qrcode&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=frndly&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=justkelvin&theme=transparent" />
 </a>
 <!-- links to your social media accounts -->
 
