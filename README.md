@@ -37,9 +37,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=qrcode&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/pin/?username=justkelvin&repo=justkelvin&theme=transparent" />
-</a>
+
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/alias_notfound
