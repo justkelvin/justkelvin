@@ -25,6 +25,8 @@
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=justkelvin&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://github.com/justkelvin">
   <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api?username=justkelvin&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
