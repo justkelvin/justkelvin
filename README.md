@@ -25,11 +25,11 @@
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/justkelvin">
   <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api?username=justkelvin&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/justkelvin">
   <img height=200 align="center" src="https://github-readme-stats-puce-omega-76.vercel.app/api/top-langs/?username=justkelvin&hide=scss,css,html,text&langs_count=8&layout=compact&show_icons=true&theme=transparent&card_width=300" />
 </a>
 
